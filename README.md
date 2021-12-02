@@ -9,5 +9,6 @@ docker --version
 - sudo systemctl status docker /n
 - sudo systemctl enable --now docker /n
 - sudo docker run hello-world
+- sudo docker images
 
 
